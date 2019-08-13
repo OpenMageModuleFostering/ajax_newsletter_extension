@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Ajax_newsletter_extension",
+    "type": "magento-module",
+    "license": "OSLv1.0",
+    "homepage": "",
+    "description": "Ajax newsletter help you to submit the magneto newsletter without refersh the page..",
+    "authors": [
+    {
+        "name": "Rohit Dhiman",
+        "email": "rdhimansujji@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
