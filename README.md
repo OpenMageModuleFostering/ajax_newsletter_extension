@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Ajax newsletter help you to submit the magneto newsletter without refersh the page..
